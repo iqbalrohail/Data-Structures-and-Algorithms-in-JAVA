@@ -1,7 +1,7 @@
 package com.company;
 
 import java.util.Scanner;
-
+// A spiral is a gradually contracting curve or a pattern. In this, we have to print the elements of a matrix in a spiral pattern.
 public class SpiralDisplayOfMatrix {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
